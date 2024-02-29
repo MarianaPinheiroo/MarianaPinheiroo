@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MarianaPinheiroo
-- 👀 I’m interested in em apreder.
+- 👋 Hi, I’m @MarianaPinheiro
+- 👀 I’m interested in em aprender.
 - 🌱 I’m currently learning javascripit
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me manda uma dm
